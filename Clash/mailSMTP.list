@@ -2,3 +2,4 @@ DOMAIN, smtp.gmail.com
 DOMAIN, imap.gmail.com
 DOMAIN, outlook.office365.com
 DOMAIN, smtp-mail.outlook.com
+DOMAIN, imap-mail.outlook.com
